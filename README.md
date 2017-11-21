@@ -1,3 +1,10 @@
+# debugging .VSIX 
+ 
+ ```
+ npm run package
+ "package": "vsce package --baseContentUrl"
+ ```
+
 ## C# for Visual Studio Code (powered by OmniSharp)
 
 |Master|Dev|

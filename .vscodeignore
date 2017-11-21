@@ -1,6 +1,4 @@
 **/*.gitignore
-tsconfig.json
-
 src/**
 **/*.map
 
